@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+.tableauSection{
+    background-color: rgb(155, 76, 230);
+    min-height: 10rem;
+    padding-bottom: 5rem;
+    padding-top: 2rem;
+}
+
+.tableauSide{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;   
+}
+
+.tableau{
+    width: 80%;
+}
+
+.table{
+    margin-bottom: 0;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
